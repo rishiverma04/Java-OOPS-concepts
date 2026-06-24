@@ -74,7 +74,7 @@ public class demo{
   System.out.println(newroll[4]);*/
 
 
-  int marks[][]=new int[3][3];
+  /*int marks[][]=new int[3][3];
 
   marks[0][0]=50;
   marks[0][1]=60;
@@ -92,8 +92,10 @@ public class demo{
       for(int col=0;col<3;col++){
             System.out.println(marks[row][col]);
       }
-      System.out.print(" ");
-  }
+      System.out.print(" ");*/
+  //}
+
+  
       
       }
 
